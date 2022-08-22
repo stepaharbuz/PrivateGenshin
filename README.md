@@ -1,1 +1,2 @@
 # PrivateGenshin
+password: Genshin
